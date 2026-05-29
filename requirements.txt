@@ -4,3 +4,4 @@ matplotlib
 torch
 torchvision
 complexPyTorch
+scikit-learn

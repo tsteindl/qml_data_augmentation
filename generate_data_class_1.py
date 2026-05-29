@@ -63,7 +63,7 @@ def rotmod(x, shift, modo):
     y = modul(y, modo)
     return y
 
-n = 12
+n = 9
 d = 2**n
 
 # --- Generate base Gaussian kernel ---
